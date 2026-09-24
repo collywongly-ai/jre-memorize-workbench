@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "projectId": "3fd7391c-1901-499d-afb5-46236723d05e",
+  "lineageId": "3fd7391c-1901-499d-afb5-46236723d05e",
+  "semanticName": "jre-memorize-workbench",
+  "createdAt": "2026-09-24T02:47:12.996Z",
+  "updatedAt": "2026-09-24T02:47:12.996Z",
+  "entryFile": null,
+  "status": "workspace_ready",
+  "operationId": "jre-wb-20260924-01"
+}
